@@ -1,5 +1,5 @@
 import React from 'react'
-import {useParams , useEffect , useLocation } from 'react-router-dom'
+import {useParams } from 'react-router-dom'
 import Data from '../Data.js'
 
 const Dynamic = () => {
@@ -9,11 +9,14 @@ const Dynamic = () => {
     console.log('This is the'+rd.URL);
     let url = rd.URL
 
-    setTimeout(() => window.location.replace(`${url}`), 1000);
+   // setTimeout(() => window.location.replace(`${url}`), 10000);
     
     return (
     <div>
-      Redirecting
+      {url}
+      <div>
+        {CRN}
+      </div>
     </div>
   )
 }

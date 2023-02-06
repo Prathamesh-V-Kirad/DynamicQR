@@ -1,2006 +1,2177 @@
 const Data = 
-[    
+[
   {
-    "CRN": "1C",
-    "URL": "https://www.google.com/1C"
+    "CRN": 22008028,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "2C",
-    "URL": "https://www.google.com/2C"
+    "CRN": 22118049,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "3C",
-    "URL": "https://www.google.com/3C"
+    "CRN": 22148055,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "4C",
-    "URL": "https://www.google.com/4C"
+    "CRN": 22028076,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "5C",
-    "URL": "https://www.google.com/5C"
+    "CRN": 22108024,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "6C",
-    "URL": "https://www.google.com/6C"
+    "CRN": 22018016,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "7C",
-    "URL": "https://www.google.com/7C"
+    "CRN": 22118040,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "8C",
-    "URL": "https://www.google.com/8C"
+    "CRN": 22118037,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "9C",
-    "URL": "https://www.google.com/9C"
+    "CRN": 22128081,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "10C",
-    "URL": "https://www.google.com/10C"
+    "CRN": 22108005,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "11C",
-    "URL": "https://www.google.com/11C"
+    "CRN": 22118039,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "12C",
-    "URL": "https://www.google.com/12C"
+    "CRN": 22118009,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "13C",
-    "URL": "https://www.google.com/13C"
+    "CRN": 22118014,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "14C",
-    "URL": "https://www.google.com/14C"
+    "CRN": 22118017,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "15C",
-    "URL": "https://www.google.com/15C"
+    "CRN": 22148020,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "16C",
-    "URL": "https://www.google.com/16C"
+    "CRN": 22158004,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "17C",
-    "URL": "https://www.google.com/17C"
+    "CRN": 22128072,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "18C",
-    "URL": "https://www.google.com/18C"
+    "CRN": 22128086,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "19C",
-    "URL": "https://www.google.com/19C"
+    "CRN": 22018015,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "20C",
-    "URL": "https://www.google.com/20C"
+    "CRN": 22128080,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "21C",
-    "URL": "https://www.google.com/21C"
+    "CRN": 22018054,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "22C",
-    "URL": "https://www.google.com/22C"
+    "CRN": 22028073,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "23C",
-    "URL": "https://www.google.com/23C"
+    "CRN": 22118058,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "24C",
-    "URL": "https://www.google.com/24C"
+    "CRN": 22128082,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "25C",
-    "URL": "https://www.google.com/25C"
+    "CRN": 22018046,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "26C",
-    "URL": "https://www.google.com/26C"
+    "CRN": 22028088,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "27C",
-    "URL": "https://www.google.com/27C"
+    "CRN": 22118047,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "28C",
-    "URL": "https://www.google.com/28C"
+    "CRN": 22118052,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "29C",
-    "URL": "https://www.google.com/29C"
+    "CRN": 22018007,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "30C",
-    "URL": "https://www.google.com/30C"
+    "CRN": 22108026,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "31C",
-    "URL": "https://www.google.com/31C"
+    "CRN": 22108029,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "32C",
-    "URL": "https://www.google.com/32C"
+    "CRN": 22028070,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "33C",
-    "URL": "https://www.google.com/33C"
+    "CRN": 22118060,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "34C",
-    "URL": "https://www.google.com/34C"
+    "CRN": 22128089,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "35C",
-    "URL": "https://www.google.com/35C"
+    "CRN": 22018061,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "36C",
-    "URL": "https://www.google.com/36C"
+    "CRN": 22118019,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "37C",
-    "URL": "https://www.google.com/37C"
+    "CRN": 22128092,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "38C",
-    "URL": "https://www.google.com/38C"
+    "CRN": 22128091,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "39C",
-    "URL": "https://www.google.com/39C"
+    "CRN": 22118045,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "40C",
-    "URL": "https://www.google.com/40C"
+    "CRN": 22118013,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "41C",
-    "URL": "https://www.google.com/41C"
+    "CRN": 22108011,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "42C",
-    "URL": "https://www.google.com/42C"
+    "CRN": 22118018,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "43C",
-    "URL": "https://www.google.com/43C"
+    "CRN": 22028087,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "44C",
-    "URL": "https://www.google.com/44C"
+    "CRN": 22108033,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "45C",
-    "URL": "https://www.google.com/45C"
+    "CRN": 22028074,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "46C",
-    "URL": "https://www.google.com/46C"
+    "CRN": 22048008,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "47C",
-    "URL": "https://www.google.com/47C"
+    "CRN": 22108006,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "48C",
-    "URL": "https://www.google.com/48C"
+    "CRN": 22128093,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "49C",
-    "URL": "https://www.google.com/49C"
+    "CRN": 22118010,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "50C",
-    "URL": "https://www.google.com/50C"
+    "CRN": 22128084,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "51C",
-    "URL": "https://www.google.com/51C"
+    "CRN": 22128090,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "52C",
-    "URL": "https://www.google.com/52C"
+    "CRN": 22118035,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "53C",
-    "URL": "https://www.google.com/53C"
+    "CRN": 22008012,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "54C",
-    "URL": "https://www.google.com/54C"
+    "CRN": 22018059,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "55C",
-    "URL": "https://www.google.com/55C"
+    "CRN": 22118053,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "56C",
-    "URL": "https://www.google.com/56C"
+    "CRN": 22118056,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "57C",
-    "URL": "https://www.google.com/57C"
+    "CRN": 22118057,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "58C",
-    "URL": "https://www.google.com/58C"
+    "CRN": 22008068,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "59C",
-    "URL": "https://www.google.com/59C"
+    "CRN": 22128085,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "60C",
-    "URL": "https://www.google.com/60C"
+    "CRN": 22108027,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "61C",
-    "URL": "https://www.google.com/61C"
+    "CRN": 22118021,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "62C",
-    "URL": "https://www.google.com/62C"
+    "CRN": 22028077,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "63C",
-    "URL": "https://www.google.com/63C"
+    "CRN": 22108025,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "64C",
-    "URL": "https://www.google.com/64C"
+    "CRN": 22118048,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "65C",
-    "URL": "https://www.google.com/65C"
+    "CRN": 22028075,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "66C",
-    "URL": "https://www.google.com/66C"
+    "CRN": 22118003,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "67C",
-    "URL": "https://www.google.com/67C"
+    "CRN": 22128094,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "68C",
-    "URL": "https://www.google.com/68C"
+    "CRN": 22118036,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "69C",
-    "URL": "https://www.google.com/69C"
+    "CRN": 22118002,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "70C",
-    "URL": "https://www.google.com/70C"
+    "CRN": 22110025,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "71C",
-    "URL": "https://www.google.com/71C"
+    "CRN": 22170036,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "72C",
-    "URL": "https://www.google.com/72C"
+    "CRN": 22110024,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "73C",
-    "URL": "https://www.google.com/73C"
+    "CRN": 22100008,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "74C",
-    "URL": "https://www.google.com/74C"
+    "CRN": 22010066,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "75C",
-    "URL": "https://www.google.com/75C"
+    "CRN": 22020076,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "76C",
-    "URL": "https://www.google.com/76C"
+    "CRN": 22010001,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "77C",
-    "URL": "https://www.google.com/77C"
+    "CRN": 22100038,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "78C",
-    "URL": "https://www.google.com/78C"
+    "CRN": 22020086,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "79C",
-    "URL": "https://www.google.com/79C"
+    "CRN": 22110006,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "80C",
-    "URL": "https://www.google.com/80C"
+    "CRN": 22110044,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "81C",
-    "URL": "https://www.google.com/81C"
+    "CRN": 22110047,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "82C",
-    "URL": "https://www.google.com/82C"
+    "CRN": 22140067,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "83C",
-    "URL": "https://www.google.com/83C"
+    "CRN": 22120072,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "84C",
-    "URL": "https://www.google.com/84C"
+    "CRN": 22110045,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "85C",
-    "URL": "https://www.google.com/85C"
+    "CRN": 22110022,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "86C",
-    "URL": "https://www.google.com/86C"
+    "CRN": 22000029,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "87C",
-    "URL": "https://www.google.com/87C"
+    "CRN": 22010003,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "88C",
-    "URL": "https://www.google.com/88C"
+    "CRN": 22110021,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "89C",
-    "URL": "https://www.google.com/89C"
+    "CRN": 22110055,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "90C",
-    "URL": "https://www.google.com/90C"
+    "CRN": 22120030,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "91C",
-    "URL": "https://www.google.com/91C"
+    "CRN": 22120075,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "92C",
-    "URL": "https://www.google.com/92C"
+    "CRN": 22110020,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "93C",
-    "URL": "https://www.google.com/93C"
+    "CRN": 22000027,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "94C",
-    "URL": "https://www.google.com/94C"
+    "CRN": 22110059,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "95C",
-    "URL": "https://www.google.com/95C"
+    "CRN": 22110043,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "96C",
-    "URL": "https://www.google.com/96C"
+    "CRN": 22120085,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "97C",
-    "URL": "https://www.google.com/97C"
+    "CRN": 22110015,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "98C",
-    "URL": "https://www.google.com/98C"
+    "CRN": 22000083,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "99C",
-    "URL": "https://www.google.com/99C"
+    "CRN": 22120078,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "100C",
-    "URL": "https://www.google.com/100C"
+    "CRN": 22040010,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "101C",
-    "URL": "https://www.google.com/101C"
+    "CRN": 22110060,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "102C",
-    "URL": "https://www.google.com/102C"
+    "CRN": 22110056,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "103C",
-    "URL": "https://www.google.com/103C"
+    "CRN": 22010046,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "104C",
-    "URL": "https://www.google.com/104C"
+    "CRN": 22100009,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "105C",
-    "URL": "https://www.google.com/105C"
+    "CRN": 22120084,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "106C",
-    "URL": "https://www.google.com/106C"
+    "CRN": 22110054,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "107C",
-    "URL": "https://www.google.com/107C"
+    "CRN": 22120080,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "108C",
-    "URL": "https://www.google.com/108C"
+    "CRN": 22100053,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "109C",
-    "URL": "https://www.google.com/109C"
+    "CRN": 22010032,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "110C",
-    "URL": "https://www.google.com/110C"
+    "CRN": 22010033,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "111C",
-    "URL": "https://www.google.com/111C"
+    "CRN": 22120087,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "112C",
-    "URL": "https://www.google.com/112C"
+    "CRN": 22000016,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "113C",
-    "URL": "https://www.google.com/113C"
+    "CRN": 22110012,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "114C",
-    "URL": "https://www.google.com/114C"
+    "CRN": 22150007,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "115C",
-    "URL": "https://www.google.com/115C"
+    "CRN": 22010052,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "116C",
-    "URL": "https://www.google.com/116C"
+    "CRN": 22020079,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "117C",
-    "URL": "https://www.google.com/117C"
+    "CRN": 22140050,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "118C",
-    "URL": "https://www.google.com/118C"
+    "CRN": 22110014,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "119C",
-    "URL": "https://www.google.com/119C"
+    "CRN": 22110019,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "120C",
-    "URL": "https://www.google.com/120C"
+    "CRN": 22110031,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "121C",
-    "URL": "https://www.google.com/121C"
+    "CRN": 22110049,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "122C",
-    "URL": "https://www.google.com/122C"
+    "CRN": 22100028,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "123C",
-    "URL": "https://www.google.com/123C"
+    "CRN": 22110013,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "124C",
-    "URL": "https://www.google.com/124C"
+    "CRN": 22000034,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "125C",
-    "URL": "https://www.google.com/125C"
+    "CRN": 22100017,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "126C",
-    "URL": "https://www.google.com/126C"
+    "CRN": 22170035,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "127C",
-    "URL": "https://www.google.com/127C"
+    "CRN": 22120074,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "128C",
-    "URL": "https://www.google.com/128C"
+    "CRN": 22110002,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "129C",
-    "URL": "https://www.google.com/129C"
+    "CRN": 22110004,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "130C",
-    "URL": "https://www.google.com/130C"
+    "CRN": 22110064,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "131C",
-    "URL": "https://www.google.com/131C"
+    "CRN": 22110005,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "132C",
-    "URL": "https://www.google.com/132C"
+    "CRN": 22020073,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "133C",
-    "URL": "https://www.google.com/133C"
+    "CRN": 22020081,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "134C",
-    "URL": "https://www.google.com/134C"
+    "CRN": 22110023,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "135C",
-    "URL": "https://www.google.com/135C"
+    "CRN": 22110011,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "136C",
-    "URL": "https://www.google.com/136C"
+    "CRN": 22110018,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "137C",
-    "URL": "https://www.google.com/137C"
+    "CRN": 22110026,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "138C",
-    "URL": "https://www.google.com/138C"
+    "CRN": 22020077,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "139C",
-    "URL": "https://www.google.com/139C"
+    "CRN": 22100037,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "140C",
-    "URL": "https://www.google.com/140C"
+    "CRN": 22110062,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "141C",
-    "URL": "https://www.google.com/141C"
+    "CRN": 22112074,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "142C",
-    "URL": "https://www.google.com/142C"
+    "CRN": 22012035,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "143C",
-    "URL": "https://www.google.com/143C"
+    "CRN": 22012066,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "144C",
-    "URL": "https://www.google.com/144C"
+    "CRN": 22012070,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "145C",
-    "URL": "https://www.google.com/145C"
+    "CRN": 22012020,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "146C",
-    "URL": "https://www.google.com/146C"
+    "CRN": 22042026,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "147C",
-    "URL": "https://www.google.com/147C"
+    "CRN": 22012001,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "148C",
-    "URL": "https://www.google.com/148C"
+    "CRN": 22002023,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "149C",
-    "URL": "https://www.google.com/149C"
+    "CRN": 22112002,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "150C",
-    "URL": "https://www.google.com/150C"
+    "CRN": 22102049,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "151C",
-    "URL": "https://www.google.com/151C"
+    "CRN": 22112076,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "152C",
-    "URL": "https://www.google.com/152C"
+    "CRN": 22102010,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "153C",
-    "URL": "https://www.google.com/153C"
+    "CRN": 22012030,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "154C",
-    "URL": "https://www.google.com/154C"
+    "CRN": 22112048,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "155C",
-    "URL": "https://www.google.com/155C"
+    "CRN": 22102051,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "156C",
-    "URL": "https://www.google.com/156C"
+    "CRN": 22112047,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "157C",
-    "URL": "https://www.google.com/157C"
+    "CRN": 22012077,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "158C",
-    "URL": "https://www.google.com/158C"
+    "CRN": 22112068,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "159C",
-    "URL": "https://www.google.com/159C"
+    "CRN": 22112031,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "160C",
-    "URL": "https://www.google.com/160C"
+    "CRN": 22012033,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "161C",
-    "URL": "https://www.google.com/161C"
+    "CRN": 22112019,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "162C",
-    "URL": "https://www.google.com/162C"
+    "CRN": 22102022,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "163C",
-    "URL": "https://www.google.com/163C"
+    "CRN": 22102011,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "164C",
-    "URL": "https://www.google.com/164C"
+    "CRN": 22012018,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "165C",
-    "URL": "https://www.google.com/165C"
+    "CRN": 22112007,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "166C",
-    "URL": "https://www.google.com/166C"
+    "CRN": 22112078,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "167C",
-    "URL": "https://www.google.com/167C"
+    "CRN": 22102054,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "168C",
-    "URL": "https://www.google.com/168C"
+    "CRN": 22112061,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "169C",
-    "URL": "https://www.google.com/169C"
+    "CRN": 22012005,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "170C",
-    "URL": "https://www.google.com/170C"
+    "CRN": 22042039,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "171C",
-    "URL": "https://www.google.com/171C"
+    "CRN": 22112029,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "172C",
-    "URL": "https://www.google.com/172C"
+    "CRN": 22142037,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "173C",
-    "URL": "https://www.google.com/173C"
+    "CRN": 22012075,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "174C",
-    "URL": "https://www.google.com/174C"
+    "CRN": 22112016,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "175C",
-    "URL": "https://www.google.com/175C"
+    "CRN": 22112014,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "176C",
-    "URL": "https://www.google.com/176C"
+    "CRN": 22142059,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "177C",
-    "URL": "https://www.google.com/177C"
+    "CRN": 22112036,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "178C",
-    "URL": "https://www.google.com/178C"
+    "CRN": 22112021,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "179C",
-    "URL": "https://www.google.com/179C"
+    "CRN": 22102025,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "180C",
-    "URL": "https://www.google.com/180C"
+    "CRN": 22002008,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "181C",
-    "URL": "https://www.google.com/181C"
+    "CRN": 22102041,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "182C",
-    "URL": "https://www.google.com/182C"
+    "CRN": 22012046,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "183C",
-    "URL": "https://www.google.com/183C"
+    "CRN": 22012027,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "184C",
-    "URL": "https://www.google.com/184C"
+    "CRN": 22112069,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "185C",
-    "URL": "https://www.google.com/185C"
+    "CRN": 22012006,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "186C",
-    "URL": "https://www.google.com/186C"
+    "CRN": 22112073,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "187C",
-    "URL": "https://www.google.com/187C"
+    "CRN": 22102043,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "188C",
-    "URL": "https://www.google.com/188C"
+    "CRN": 22102050,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "189C",
-    "URL": "https://www.google.com/189C"
+    "CRN": 22112060,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "190C",
-    "URL": "https://www.google.com/190C"
+    "CRN": 22012003,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "191C",
-    "URL": "https://www.google.com/191C"
+    "CRN": 22112065,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "192C",
-    "URL": "https://www.google.com/192C"
+    "CRN": 22102024,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "193C",
-    "URL": "https://www.google.com/193C"
+    "CRN": 22102038,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "194C",
-    "URL": "https://www.google.com/194C"
+    "CRN": 22112053,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "195C",
-    "URL": "https://www.google.com/195C"
+    "CRN": 22012017,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "196C",
-    "URL": "https://www.google.com/196C"
+    "CRN": 22012034,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "197C",
-    "URL": "https://www.google.com/197C"
+    "CRN": 22012040,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "198C",
-    "URL": "https://www.google.com/198C"
+    "CRN": 22112015,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "199C",
-    "URL": "https://www.google.com/199C"
+    "CRN": 22012013,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "200C",
-    "URL": "https://www.google.com/200C"
+    "CRN": 22152012,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "201C",
-    "URL": "https://www.google.com/201C"
+    "CRN": 22102055,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "202C",
-    "URL": "https://www.google.com/202C"
+    "CRN": 22102052,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "203C",
-    "URL": "https://www.google.com/203C"
+    "CRN": 22112045,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "204C",
-    "URL": "https://www.google.com/204C"
+    "CRN": 22112064,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "205C",
-    "URL": "https://www.google.com/205C"
+    "CRN": 22002009,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "206C",
-    "URL": "https://www.google.com/206C"
+    "CRN": 22112058,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "207C",
-    "URL": "https://www.google.com/207C"
+    "CRN": 22112028,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "208C",
-    "URL": "https://www.google.com/208C"
+    "CRN": 22112004,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "209C",
-    "URL": "https://www.google.com/209C"
+    "CRN": 22002042,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "210C",
-    "URL": "https://www.google.com/210C"
+    "CRN": 22122173,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "211C",
-    "URL": "https://www.google.com/211C"
+    "CRN": 22022160,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "212C",
-    "URL": "https://www.google.com/212C"
+    "CRN": 22122143,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "213C",
-    "URL": "https://www.google.com/213C"
+    "CRN": 22112092,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "214C",
-    "URL": "https://www.google.com/214C"
+    "CRN": 22122147,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "215C",
-    "URL": "https://www.google.com/215C"
+    "CRN": 22012079,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "216C",
-    "URL": "https://www.google.com/216C"
+    "CRN": 22112082,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "217C",
-    "URL": "https://www.google.com/217C"
+    "CRN": 22012108,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "218C",
-    "URL": "https://www.google.com/218C"
+    "CRN": 22122164,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "219C",
-    "URL": "https://www.google.com/219C"
+    "CRN": 22122142,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "220C",
-    "URL": "https://www.google.com/220C"
+    "CRN": 22012111,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "221C",
-    "URL": "https://www.google.com/221C"
+    "CRN": 22112099,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "222C",
-    "URL": "https://www.google.com/222C"
+    "CRN": 22112127,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "223C",
-    "URL": "https://www.google.com/223C"
+    "CRN": 22112123,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "224C",
-    "URL": "https://www.google.com/224C"
+    "CRN": 22122150,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "225C",
-    "URL": "https://www.google.com/225C"
+    "CRN": 22022158,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "226C",
-    "URL": "https://www.google.com/226C"
+    "CRN": 22122170,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "227C",
-    "URL": "https://www.google.com/227C"
+    "CRN": 22122146,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "228C",
-    "URL": "https://www.google.com/228C"
+    "CRN": 22112095,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "229C",
-    "URL": "https://www.google.com/229C"
+    "CRN": 22022161,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "230C",
-    "URL": "https://www.google.com/230C"
+    "CRN": 22022168,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "231C",
-    "URL": "https://www.google.com/231C"
+    "CRN": 22122154,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "232C",
-    "URL": "https://www.google.com/232C"
+    "CRN": 22112116,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "233C",
-    "URL": "https://www.google.com/233C"
+    "CRN": 22112090,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "234C",
-    "URL": "https://www.google.com/234C"
+    "CRN": 22112103,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "235C",
-    "URL": "https://www.google.com/235C"
+    "CRN": 22112112,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "236C",
-    "URL": "https://www.google.com/236C"
+    "CRN": 22112125,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "237C",
-    "URL": "https://www.google.com/237C"
+    "CRN": 22122167,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "238C",
-    "URL": "https://www.google.com/238C"
+    "CRN": 22112101,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "239C",
-    "URL": "https://www.google.com/239C"
+    "CRN": 22122165,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "240C",
-    "URL": "https://www.google.com/240C"
+    "CRN": 22022144,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "241C",
-    "URL": "https://www.google.com/241C"
+    "CRN": 22022156,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "242C",
-    "URL": "https://www.google.com/242C"
+    "CRN": 22112091,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "243C",
-    "URL": "https://www.google.com/243C"
+    "CRN": 22012089,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "244C",
-    "URL": "https://www.google.com/244C"
+    "CRN": 22122163,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "245C",
-    "URL": "https://www.google.com/245C"
+    "CRN": 22122152,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "246C",
-    "URL": "https://www.google.com/246C"
+    "CRN": 22112126,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "247C",
-    "URL": "https://www.google.com/247C"
+    "CRN": 22012114,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "248C",
-    "URL": "https://www.google.com/248C"
+    "CRN": 22112115,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "249C",
-    "URL": "https://www.google.com/249C"
+    "CRN": 22122139,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "250C",
-    "URL": "https://www.google.com/250C"
+    "CRN": 22112121,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "251C",
-    "URL": "https://www.google.com/251C"
+    "CRN": 22112081,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "252C",
-    "URL": "https://www.google.com/252C"
+    "CRN": 22022159,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "253C",
-    "URL": "https://www.google.com/253C"
+    "CRN": 22012113,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "254C",
-    "URL": "https://www.google.com/254C"
+    "CRN": 22022169,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "255C",
-    "URL": "https://www.google.com/255C"
+    "CRN": 22022157,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "256C",
-    "URL": "https://www.google.com/256C"
+    "CRN": 22122153,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "257C",
-    "URL": "https://www.google.com/257C"
+    "CRN": 22112105,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "258C",
-    "URL": "https://www.google.com/258C"
+    "CRN": 22122151,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "259C",
-    "URL": "https://www.google.com/259C"
+    "CRN": 22122171,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "260C",
-    "URL": "https://www.google.com/260C"
+    "CRN": 22122145,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "261C",
-    "URL": "https://www.google.com/261C"
+    "CRN": 22022172,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "262C",
-    "URL": "https://www.google.com/262C"
+    "CRN": 22112096,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "263C",
-    "URL": "https://www.google.com/263C"
+    "CRN": 22022141,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "264C",
-    "URL": "https://www.google.com/264C"
+    "CRN": 22012110,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "265C",
-    "URL": "https://www.google.com/265C"
+    "CRN": 22112119,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "266C",
-    "URL": "https://www.google.com/266C"
+    "CRN": 22012104,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "267C",
-    "URL": "https://www.google.com/267C"
+    "CRN": 22012098,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "268C",
-    "URL": "https://www.google.com/268C"
+    "CRN": 22112118,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "269C",
-    "URL": "https://www.google.com/269C"
+    "CRN": 22042117,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "270C",
-    "URL": "https://www.google.com/270C"
+    "CRN": 22122149,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "271C",
-    "URL": "https://www.google.com/271C"
+    "CRN": 22012107,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "272C",
-    "URL": "https://www.google.com/272C"
+    "CRN": 22112100,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "273C",
-    "URL": "https://www.google.com/273C"
+    "CRN": 22122155,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "274C",
-    "URL": "https://www.google.com/274C"
+    "CRN": 22112085,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "275C",
-    "URL": "https://www.google.com/275C"
+    "CRN": 22122166,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "276C",
-    "URL": "https://www.google.com/276C"
+    "CRN": 22142086,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "277C",
-    "URL": "https://www.google.com/277C"
+    "CRN": 22112124,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "278C",
-    "URL": "https://www.google.com/278C"
+    "CRN": 22011027,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "279C",
-    "URL": "https://www.google.com/279C"
+    "CRN": 22011010,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "280C",
-    "URL": "https://www.google.com/280C"
+    "CRN": 22111024,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "281C",
-    "URL": "https://www.google.com/281C"
+    "CRN": 22111021,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "282C",
-    "URL": "https://www.google.com/282C"
+    "CRN": 22111029,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "283C",
-    "URL": "https://www.google.com/283C"
+    "CRN": 22111066,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "284C",
-    "URL": "https://www.google.com/284C"
+    "CRN": 22111028,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "285C",
-    "URL": "https://www.google.com/285C"
+    "CRN": 22111062,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "286C",
-    "URL": "https://www.google.com/286C"
+    "CRN": 22041013,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "287C",
-    "URL": "https://www.google.com/287C"
+    "CRN": 22011070,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "288C",
-    "URL": "https://www.google.com/288C"
+    "CRN": 22111015,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "289C",
-    "URL": "https://www.google.com/289C"
+    "CRN": 22111012,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "290C",
-    "URL": "https://www.google.com/290C"
+    "CRN": 22021087,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "291C",
-    "URL": "https://www.google.com/291C"
+    "CRN": 22111030,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "292C",
-    "URL": "https://www.google.com/292C"
+    "CRN": 22111057,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "293C",
-    "URL": "https://www.google.com/293C"
+    "CRN": 22111044,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "294C",
-    "URL": "https://www.google.com/294C"
+    "CRN": 22011068,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "295C",
-    "URL": "https://www.google.com/295C"
+    "CRN": 22111018,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "296C",
-    "URL": "https://www.google.com/296C"
+    "CRN": 22011011,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "297C",
-    "URL": "https://www.google.com/297C"
+    "CRN": 22141020,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "298C",
-    "URL": "https://www.google.com/298C"
+    "CRN": 22011004,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "299C",
-    "URL": "https://www.google.com/299C"
+    "CRN": 22011008,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "300C",
-    "URL": "https://www.google.com/300C"
+    "CRN": 22121088,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "301C",
-    "URL": "https://www.google.com/301C"
+    "CRN": 22111067,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "302C",
-    "URL": "https://www.google.com/302C"
+    "CRN": 22021084,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "303C",
-    "URL": "https://www.google.com/303C"
+    "CRN": 22011022,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "304C",
-    "URL": "https://www.google.com/304C"
+    "CRN": 22111047,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "305C",
-    "URL": "https://www.google.com/305C"
+    "CRN": 22011040,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "306C",
-    "URL": "https://www.google.com/306C"
+    "CRN": 22011026,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "307C",
-    "URL": "https://www.google.com/307C"
+    "CRN": 22111031,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "308C",
-    "URL": "https://www.google.com/308C"
+    "CRN": 22021086,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "309C",
-    "URL": "https://www.google.com/309C"
+    "CRN": 22111009,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "310C",
-    "URL": "https://www.google.com/310C"
+    "CRN": 22111014,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "311C",
-    "URL": "https://www.google.com/311C"
+    "CRN": 22121083,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "312C",
-    "URL": "https://www.google.com/312C"
+    "CRN": 22011046,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "313C",
-    "URL": "https://www.google.com/313C"
+    "CRN": 22111051,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "314C",
-    "URL": "https://www.google.com/314C"
+    "CRN": 22111053,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "315C",
-    "URL": "https://www.google.com/315C"
+    "CRN": 22011048,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "316C",
-    "URL": "https://www.google.com/316C"
+    "CRN": 22111043,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "317C",
-    "URL": "https://www.google.com/317C"
+    "CRN": 22111050,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "318C",
-    "URL": "https://www.google.com/318C"
+    "CRN": 22111059,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "319C",
-    "URL": "https://www.google.com/319C"
+    "CRN": 22041003,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "320C",
-    "URL": "https://www.google.com/320C"
+    "CRN": 22111063,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "321C",
-    "URL": "https://www.google.com/321C"
+    "CRN": 22011056,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "322C",
-    "URL": "https://www.google.com/322C"
+    "CRN": 22111041,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "323C",
-    "URL": "https://www.google.com/323C"
+    "CRN": 22011016,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "324C",
-    "URL": "https://www.google.com/324C"
+    "CRN": 22011065,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "325C",
-    "URL": "https://www.google.com/325C"
+    "CRN": 22011032,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "326C",
-    "URL": "https://www.google.com/326C"
+    "CRN": 22011052,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "327C",
-    "URL": "https://www.google.com/327C"
+    "CRN": 22111006,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "328C",
-    "URL": "https://www.google.com/328C"
+    "CRN": 22111005,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "329C",
-    "URL": "https://www.google.com/329C"
+    "CRN": 22111019,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "330C",
-    "URL": "https://www.google.com/330C"
+    "CRN": 22111064,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "331C",
-    "URL": "https://www.google.com/331C"
+    "CRN": 22011001,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "332C",
-    "URL": "https://www.google.com/332C"
+    "CRN": 22011054,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "333C",
-    "URL": "https://www.google.com/333C"
+    "CRN": 22111025,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "334C",
-    "URL": "https://www.google.com/334C"
+    "CRN": 22111007,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "335C",
-    "URL": "https://www.google.com/335C"
+    "CRN": 22111002,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "336C",
-    "URL": "https://www.google.com/336C"
+    "CRN": 22021085,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "337C",
-    "URL": "https://www.google.com/337C"
+    "CRN": 22111061,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "338C",
-    "URL": "https://www.google.com/338C"
+    "CRN": 22111017,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "339C",
-    "URL": "https://www.google.com/339C"
+    "CRN": 22111071,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "340C",
-    "URL": "https://www.google.com/340C"
+    "CRN": 22111023,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "341C",
-    "URL": "https://www.google.com/341C"
+    "CRN": 22021090,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "342C",
-    "URL": "https://www.google.com/342C"
+    "CRN": 22101089,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "343C",
-    "URL": "https://www.google.com/343C"
+    "CRN": 22013036,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "344C",
-    "URL": "https://www.google.com/344C"
+    "CRN": 22113052,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "345C",
-    "URL": "https://www.google.com/345C"
+    "CRN": 22173030,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "346C",
-    "URL": "https://www.google.com/346C"
+    "CRN": 22113009,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "347C",
-    "URL": "https://www.google.com/347C"
+    "CRN": 22123088,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "348C",
-    "URL": "https://www.google.com/348C"
+    "CRN": 22113053,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "349C",
-    "URL": "https://www.google.com/349C"
+    "CRN": 22103012,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "350C",
-    "URL": "https://www.google.com/350C"
+    "CRN": 22013054,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "351C",
-    "URL": "https://www.google.com/351C"
+    "CRN": 22013038,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "352C",
-    "URL": "https://www.google.com/352C"
+    "CRN": 22143002,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "353C",
-    "URL": "https://www.google.com/353C"
+    "CRN": 22013047,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "354C",
-    "URL": "https://www.google.com/354C"
+    "CRN": 22113040,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "355C",
-    "URL": "https://www.google.com/355C"
+    "CRN": 22123077,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "356C",
-    "URL": "https://www.google.com/356C"
+    "CRN": 22003028,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "357C",
-    "URL": "https://www.google.com/357C"
+    "CRN": 22123075,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "358C",
-    "URL": "https://www.google.com/358C"
+    "CRN": 22123080,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "359C",
-    "URL": "https://www.google.com/359C"
+    "CRN": 22013003,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "360C",
-    "URL": "https://www.google.com/360C"
+    "CRN": 22123085,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "361C",
-    "URL": "https://www.google.com/361C"
+    "CRN": 22013018,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "362C",
-    "URL": "https://www.google.com/362C"
+    "CRN": 22113004,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "363C",
-    "URL": "https://www.google.com/363C"
+    "CRN": 22113045,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "364C",
-    "URL": "https://www.google.com/364C"
+    "CRN": 22013017,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "365C",
-    "URL": "https://www.google.com/365C"
+    "CRN": 22113046,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "366C",
-    "URL": "https://www.google.com/366C"
+    "CRN": 22113023,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "367C",
-    "URL": "https://www.google.com/367C"
+    "CRN": 22103013,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "368C",
-    "URL": "https://www.google.com/368C"
+    "CRN": 22113035,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "369C",
-    "URL": "https://www.google.com/369C"
+    "CRN": 22123089,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "370C",
-    "URL": "https://www.google.com/370C"
+    "CRN": 22013010,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "371C",
-    "URL": "https://www.google.com/371C"
+    "CRN": 22123074,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "372C",
-    "URL": "https://www.google.com/372C"
+    "CRN": 22123081,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "373C",
-    "URL": "https://www.google.com/373C"
+    "CRN": 22113039,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "374C",
-    "URL": "https://www.google.com/374C"
+    "CRN": 22123083,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "375C",
-    "URL": "https://www.google.com/375C"
+    "CRN": 22113025,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "376C",
-    "URL": "https://www.google.com/376C"
+    "CRN": 22113001,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "377C",
-    "URL": "https://www.google.com/377C"
+    "CRN": 22003026,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "378C",
-    "URL": "https://www.google.com/378C"
+    "CRN": 22103016,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "379C",
-    "URL": "https://www.google.com/379C"
+    "CRN": 22103044,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "380C",
-    "URL": "https://www.google.com/380C"
+    "CRN": 22023086,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "381C",
-    "URL": "https://www.google.com/381C"
+    "CRN": 22103021,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "382C",
-    "URL": "https://www.google.com/382C"
+    "CRN": 22073029,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "383C",
-    "URL": "https://www.google.com/383C"
+    "CRN": 22113014,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "384C",
-    "URL": "https://www.google.com/384C"
+    "CRN": 22113059,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "385C",
-    "URL": "https://www.google.com/385C"
+    "CRN": 22113015,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "386C",
-    "URL": "https://www.google.com/386C"
+    "CRN": 22123078,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "387C",
-    "URL": "https://www.google.com/387C"
+    "CRN": 22113034,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "388C",
-    "URL": "https://www.google.com/388C"
+    "CRN": 22113055,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "389C",
-    "URL": "https://www.google.com/389C"
+    "CRN": 22003020,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "390C",
-    "URL": "https://www.google.com/390C"
+    "CRN": 22023090,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "391C",
-    "URL": "https://www.google.com/391C"
+    "CRN": 22123082,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "392C",
-    "URL": "https://www.google.com/392C"
+    "CRN": 22113037,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "393C",
-    "URL": "https://www.google.com/393C"
+    "CRN": 22013049,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "394C",
-    "URL": "https://www.google.com/394C"
+    "CRN": 22113007,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "395C",
-    "URL": "https://www.google.com/395C"
+    "CRN": 22143058,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "396C",
-    "URL": "https://www.google.com/396C"
+    "CRN": 22013057,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "397C",
-    "URL": "https://www.google.com/397C"
+    "CRN": 22113019,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "398C",
-    "URL": "https://www.google.com/398C"
+    "CRN": 22013008,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "399C",
-    "URL": "https://www.google.com/399C"
+    "CRN": 22103069,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "400C",
-    "URL": "https://www.google.com/400C"
+    "CRN": 22113051,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "401C",
-    "URL": "https://www.google.com/401C"
+    "CRN": 22013043,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "402C",
-    "URL": "https://www.google.com/402C"
+    "CRN": 22113067,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "403C",
-    "URL": "https://www.google.com/403C"
+    "CRN": 22013022,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "404C",
-    "URL": "https://www.google.com/404C"
+    "CRN": 22123084,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "405C",
-    "URL": "https://www.google.com/405C"
+    "CRN": 22113060,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "406C",
-    "URL": "https://www.google.com/406C"
+    "CRN": 22143024,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "407C",
-    "URL": "https://www.google.com/407C"
+    "CRN": 22003006,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "408C",
-    "URL": "https://www.google.com/408C"
+    "CRN": 22113061,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "409C",
-    "URL": "https://www.google.com/409C"
+    "CRN": 22123087,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "410C",
-    "URL": "https://www.google.com/410C"
+    "CRN": 22103005,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "411C",
-    "URL": "https://www.google.com/411C"
+    "CRN": 22113062,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "412C",
-    "URL": "https://www.google.com/412C"
+    "CRN": 22003027,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "413C",
-    "URL": "https://www.google.com/413C"
+    "CRN": 22114009,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "414C",
-    "URL": "https://www.google.com/414C"
+    "CRN": 22014004,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "415C",
-    "URL": "https://www.google.com/415C"
+    "CRN": 22114021,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "416C",
-    "URL": "https://www.google.com/416C"
+    "CRN": 22114039,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "417C",
-    "URL": "https://www.google.com/417C"
+    "CRN": 22014033,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "418C",
-    "URL": "https://www.google.com/418C"
+    "CRN": 22114035,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "419C",
-    "URL": "https://www.google.com/419C"
+    "CRN": 22114034,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "420C",
-    "URL": "https://www.google.com/420C"
+    "CRN": 22014043,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "421C",
-    "URL": "https://www.google.com/421C"
+    "CRN": 22114075,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "422C",
-    "URL": "https://www.google.com/422C"
+    "CRN": 22114003,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "423C",
-    "URL": "https://www.google.com/423C"
+    "CRN": 22114058,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "424C",
-    "URL": "https://www.google.com/424C"
+    "CRN": 22114026,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "425C",
-    "URL": "https://www.google.com/425C"
+    "CRN": 22114077,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "426C",
-    "URL": "https://www.google.com/426C"
+    "CRN": 22114001,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "427C",
-    "URL": "https://www.google.com/427C"
+    "CRN": 22114030,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "428C",
-    "URL": "https://www.google.com/428C"
+    "CRN": 22114038,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "429C",
-    "URL": "https://www.google.com/429C"
+    "CRN": 22114023,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "430C",
-    "URL": "https://www.google.com/430C"
+    "CRN": 22114059,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "431C",
-    "URL": "https://www.google.com/431C"
+    "CRN": 22114029,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "432C",
-    "URL": "https://www.google.com/432C"
+    "CRN": 22114027,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "433C",
-    "URL": "https://www.google.com/433C"
+    "CRN": 22114020,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "434C",
-    "URL": "https://www.google.com/434C"
+    "CRN": 22114025,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "435C",
-    "URL": "https://www.google.com/435C"
+    "CRN": 22114028,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "436C",
-    "URL": "https://www.google.com/436C"
+    "CRN": 22014061,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "437C",
-    "URL": "https://www.google.com/437C"
+    "CRN": 22114016,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "438C",
-    "URL": "https://www.google.com/438C"
+    "CRN": 22144007,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "439C",
-    "URL": "https://www.google.com/439C"
+    "CRN": 22114041,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "440C",
-    "URL": "https://www.google.com/440C"
+    "CRN": 22114019,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "441C",
-    "URL": "https://www.google.com/441C"
+    "CRN": 22114017,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "442C",
-    "URL": "https://www.google.com/442C"
+    "CRN": 22114078,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "443C",
-    "URL": "https://www.google.com/443C"
+    "CRN": 22114050,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "444C",
-    "URL": "https://www.google.com/444C"
+    "CRN": 22114012,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "445C",
-    "URL": "https://www.google.com/445C"
+    "CRN": 22114057,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "446C",
-    "URL": "https://www.google.com/446C"
+    "CRN": 22114032,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "447C",
-    "URL": "https://www.google.com/447C"
+    "CRN": 22114055,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "448C",
-    "URL": "https://www.google.com/448C"
+    "CRN": 22114022,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "449C",
-    "URL": "https://www.google.com/449C"
+    "CRN": 22144010,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "450C",
-    "URL": "https://www.google.com/450C"
+    "CRN": 22114056,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "451C",
-    "URL": "https://www.google.com/451C"
+    "CRN": 22114046,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "452C",
-    "URL": "https://www.google.com/452C"
+    "CRN": 22114040,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "453C",
-    "URL": "https://www.google.com/453C"
+    "CRN": 22014024,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "454C",
-    "URL": "https://www.google.com/454C"
+    "CRN": 22114053,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "455C",
-    "URL": "https://www.google.com/455C"
+    "CRN": 22114047,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "456C",
-    "URL": "https://www.google.com/456C"
+    "CRN": 22114048,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "457C",
-    "URL": "https://www.google.com/457C"
+    "CRN": 22144005,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "458C",
-    "URL": "https://www.google.com/458C"
+    "CRN": 22114045,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "459C",
-    "URL": "https://www.google.com/459C"
+    "CRN": 22014006,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "460C",
-    "URL": "https://www.google.com/460C"
+    "CRN": 22114062,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "461C",
-    "URL": "https://www.google.com/461C"
+    "CRN": 22144036,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "462C",
-    "URL": "https://www.google.com/462C"
+    "CRN": 22114060,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "463C",
-    "URL": "https://www.google.com/463C"
+    "CRN": 22114052,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "464C",
-    "URL": "https://www.google.com/464C"
+    "CRN": 22114013,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "465C",
-    "URL": "https://www.google.com/465C"
+    "CRN": 22014044,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "466C",
-    "URL": "https://www.google.com/466C"
+    "CRN": 22144015,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "467C",
-    "URL": "https://www.google.com/467C"
+    "CRN": 22114008,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "468C",
-    "URL": "https://www.google.com/468C"
+    "CRN": 22114018,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "469C",
-    "URL": "https://www.google.com/469C"
+    "CRN": 22014037,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "470C",
-    "URL": "https://www.google.com/470C"
+    "CRN": 22114049,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "471C",
-    "URL": "https://www.google.com/471C"
+    "CRN": 22114051,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "472C",
-    "URL": "https://www.google.com/472C"
+    "CRN": 22114076,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "473C",
-    "URL": "https://www.google.com/473C"
+    "CRN": 22114014,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "474C",
-    "URL": "https://www.google.com/474C"
+    "CRN": 22114031,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "475C",
-    "URL": "https://www.google.com/475C"
+    "CRN": 22114002,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "476C",
-    "URL": "https://www.google.com/476C"
+    "CRN": 22114011,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "477C",
-    "URL": "https://www.google.com/477C"
+    "CRN": 22114063,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "478C",
-    "URL": "https://www.google.com/478C"
+    "CRN": 22114042,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "479C",
-    "URL": "https://www.google.com/479C"
+    "CRN": 22014100,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "480C",
-    "URL": "https://www.google.com/480C"
+    "CRN": 22014119,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "481C",
-    "URL": "https://www.google.com/481C"
+    "CRN": 22114130,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "482C",
-    "URL": "https://www.google.com/482C"
+    "CRN": 22114122,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "483C",
-    "URL": "https://www.google.com/483C"
+    "CRN": 22114123,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "484C",
-    "URL": "https://www.google.com/484C"
+    "CRN": 22114101,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "485C",
-    "URL": "https://www.google.com/485C"
+    "CRN": 22114090,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "486C",
-    "URL": "https://www.google.com/486C"
+    "CRN": 22114110,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "487C",
-    "URL": "https://www.google.com/487C"
+    "CRN": 22114091,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "488C",
-    "URL": "https://www.google.com/488C"
+    "CRN": 22124161,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "489C",
-    "URL": "https://www.google.com/489C"
+    "CRN": 22114113,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "490C",
-    "URL": "https://www.google.com/490C"
+    "CRN": 22124163,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "491C",
-    "URL": "https://www.google.com/491C"
+    "CRN": 22024164,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "492C",
-    "URL": "https://www.google.com/492C"
+    "CRN": 22114118,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "493C",
-    "URL": "https://www.google.com/493C"
+    "CRN": 22114106,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "494C",
-    "URL": "https://www.google.com/494C"
+    "CRN": 22014085,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "495C",
-    "URL": "https://www.google.com/495C"
+    "CRN": 22124172,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "496C",
-    "URL": "https://www.google.com/496C"
+    "CRN": 22114102,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "497C",
-    "URL": "https://www.google.com/497C"
+    "CRN": 22144115,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "498C",
-    "URL": "https://www.google.com/498C"
+    "CRN": 22024168,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "499C",
-    "URL": "https://www.google.com/499C"
+    "CRN": 22114087,
+    "URL": "https://www.pvgcoet.ac.in/"
   },
   {
-    "CRN": "500C",
-    "URL": "https://www.google.com/500C"
+    "CRN": 22114112,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114097,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22124160,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22104126,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22124171,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22124167,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22124166,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22014086,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22014081,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22104099,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114094,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22014109,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114129,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22014134,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22014135,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114098,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114116,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22014127,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114132,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114089,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114131,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114133,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114103,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114125,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22014084,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114096,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114120,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114105,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114121,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114107,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114108,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114124,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22114083,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22115002,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22115004,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22115007,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22115006,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22115008,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22115010,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22115001,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22115003,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22115005,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22115048,
+    "URL": "https://www.pvgcoet.ac.in/"
+  },
+  {
+    "CRN": 22115009,
+    "URL": "https://www.pvgcoet.ac.in/"
   }
-
-  ]
+]
 
 export default Data;
